@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comix-base.iml" filepath="$PROJECT_DIR$/comix-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../comix-crawler/comix-crawler.iml" filepath="$PROJECT_DIR$/../comix-crawler/comix-crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../comix-indexer/comix-indexer.iml" filepath="$PROJECT_DIR$/../comix-indexer/comix-indexer.iml" />
+    </modules>
+  </component>
+</project>
